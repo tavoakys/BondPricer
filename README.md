@@ -101,5 +101,5 @@ Check out the code [here](https://github.com/tavoakys/BondPricer/blob/master/Bon
 
 ## Resources Used
 
-* [Article: Investopedia] (https://www.investopedia.com/terms/b/bond-valuation.asp)
+* [Article: Investopedia](https://www.investopedia.com/terms/b/bond-valuation.asp)
 * This README.md file was written with the assistance of GPT-5.
