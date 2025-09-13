@@ -68,7 +68,7 @@ Coupon per period: 2.5000 \
 Yield per period : 3.0000% \
 Total periods    : 6 \
 \
-Time elapsed: 0.7347 ms \
+Time elapsed: 0.7347 ms 
 
 ---
 
