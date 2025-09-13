@@ -79,7 +79,7 @@ This matters because:
 * Investment decisions – It helps investors know whether a bond is fairly priced, overvalued, or undervalued.
 * Risk management – Shows how sensitive bond values are to changes in interest rates (important for portfolio strategy).
 * Financial planning – Lets issuers and buyers estimate returns and costs accurately.
-* Practical learning – The program demonstrates how to apply time value of money and discounting concepts in code.\
+* Practical learning – The program demonstrates how to apply time value of money and discounting concepts in code.
 
 ---
 
