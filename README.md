@@ -53,6 +53,7 @@ This C++ project is a bond valuation calculator. In brief, it does the following
 ---
 
 ## Example Run
+
 Face value in $ (e.g., 100 for 100$): 100 \
 Annual coupon rate in % (e.g., 5 for 5%): 5 \
 Yield to maturity in % (e.g., 6 for 6%): 6 \
@@ -68,7 +69,7 @@ Yield per period : 3.0000% \
 Total periods    : 6 \
 \
 Time elapsed: 0.7347 ms \
-\
+
 ---
 
 ## Importance of Bond Valuation
