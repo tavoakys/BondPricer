@@ -12,7 +12,7 @@ int main() {
     int timeToMaturity;
     int couponFrequency;
 
-    cout << "Face value in $ (e.g., 100 for 100$): ";
+    cout << "Face value in $ (e.g., 100 for $100): ";
     cin >> faceValue;
 
     cout << "Annual coupon rate in % (e.g., 5 for 5%): ";
